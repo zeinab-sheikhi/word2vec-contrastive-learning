@@ -1,0 +1,8 @@
+*.zip
+*.pdf
+
+2_hw_word2vec.ipynb
+2_imdb_text_convolution_cor.ipynb
+HW2.ipynb
+best/
+hyperparameters/
